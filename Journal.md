@@ -135,31 +135,43 @@ https://public.lapse-hackclub.link/timelapses/0GBBIOc-dRC7/timelapse-0GBBIOc-dRC
 **Total time spent: 1h 30m**
 
 
-# June 8th: Got the screen to work!
+# May 21nd: Started working on the pcb
 
-[actual journal content - what did you do?]
+I started working on the pcb finally. Well this is my forst time making a pcb, so yea
+I just imported all the footprints onto the editor. I then arranged them roughly, i have no clue if its correct or not. I will def change them later. I arranged only the switches, rotary encoder and pico for now.
 
-[insert pictures of what you're working on!]
+https://lapse.hackclub.com/timelapse/G3J0O8FZEjo2
 
-**Total time spent: 2h**
+<img width="1068" height="536" alt="image" src="https://github.com/user-attachments/assets/10e3cad5-ed6e-49d6-8811-e7a2e921f130" />
+<img width="1065" height="526" alt="image" src="https://github.com/user-attachments/assets/2661a52c-0084-409f-ba0b-98e9cd5a3830" />
+<img width="1053" height="534" alt="image" src="https://github.com/user-attachments/assets/9d734e5e-081a-49a6-a641-54fb62b3a81c" />
 
-
-# June 8th: Got the screen to work!
-
-[actual journal content - what did you do?]
-
-[insert pictures of what you're working on!]
-
-**Total time spent: 2h**
+**Total time spent: 30m**
 
 
-# June 8th: Got the screen to work!
+# May 22nd: Transferred all the journals to horizons
 
-[actual journal content - what did you do?]
+I just transferred all the journals from fallout to horizons neatly. I ensured each journal correctly alligned with the guidelines for horizons.
 
-[insert pictures of what you're working on!]
+https://lapse.hackclub.com/timelapse/SRcNPL15U1K1
 
-**Total time spent: 2h**
+<img width="1087" height="548" alt="image" src="https://github.com/user-attachments/assets/ac4a2b93-f272-4caa-ab89-53fa4c0e9aaa" />
+
+**Total time spent: 40m**
+
+
+# May 23rd: Continued working on pcb
+
+i continued working on the schematics. I thought of placing the pico underneath the pcb but realised that wont work cuz if the switches. I then tried doing some research on some other module with a smaller footprint like a xiao or a rp2040 or an esp32 etc, but everything was either too big or too small, didnt have enough gpios or had too many etc etc. I went through lots of datasheets etc and still no luck. I decided to give the esp32 s3 a try, not sure tho...
+
+https://lapse.hackclub.com/timelapse/vrI20fQrQSxk
+
+<img width="964" height="514" alt="image" src="https://github.com/user-attachments/assets/33072000-4638-44b0-8293-a64f79fc3207" />
+<img width="663" height="426" alt="image" src="https://github.com/user-attachments/assets/5420371d-bb5e-4b5e-82f6-1522c8d7690f" />
+<img width="867" height="462" alt="image" src="https://github.com/user-attachments/assets/22d5a030-c723-4fbc-afd4-4a7557400c5e" />
+<img width="859" height="352" alt="image" src="https://github.com/user-attachments/assets/78a440be-f99e-4284-b51e-03ad23f46ec9" />
+
+**Total time spent: 2h 15m**
 
 
 # June 8th: Got the screen to work!
