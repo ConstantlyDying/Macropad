@@ -174,22 +174,30 @@ https://lapse.hackclub.com/timelapse/vrI20fQrQSxk
 **Total time spent: 2h 15m**
 
 
-# June 8th: Got the screen to work!
+# June 4th: Worked on the schematica
 
-[actual journal content - what did you do?]
+I did most of my work on the schematics today. I decided to ditch the esp32 mc or any other mcu idea as i didnt wanna over complicate anything for my first pcb, and my first macropad. Im gonna stick with the pico only. I made some changes to the connections of the power switch and all the daughter modules.
 
-[insert pictures of what you're working on!]
+https://lapse.hackclub.com/timelapse/ZglHSRn_m3mC
 
-**Total time spent: 2h**
+<img width="1054" height="512" alt="image" src="https://github.com/user-attachments/assets/81c5d4e0-241f-4d19-b027-47ece1f35aa4" />
+<img width="931" height="481" alt="image" src="https://github.com/user-attachments/assets/a72545a6-d2d1-4243-b0a9-22fca2551497" />
+
+**Total time spent: 40m**
 
 
-# June 8th: Got the screen to work!
+# June 14th: Continued working on the pcb
 
-[actual journal content - what did you do?]
+I continued working on the pcb. I arranged the diodes near each key, and placed the leds under each key. I also flipped the leds. I tried different positions for the pico so it can be compact, but gave up:), i then made the pico foortprint from smd to pin header one. I also moved around the pin headers for the daughter modules, and then decided to ditch the pin headers and instead connect the modules with jst connectors as then i can place the modules on the bottom of the case and it will be easier to wire too.
 
-[insert pictures of what you're working on!]
+https://lapse.hackclub.com/timelapse/cCD02lNH7a1F
 
-**Total time spent: 2h**
+<img width="990" height="835" alt="image" src="https://github.com/user-attachments/assets/f530dfd6-ab49-4ceb-9646-f7b69a3174ad" />
+<img width="1049" height="596" alt="image" src="https://github.com/user-attachments/assets/2fdc8c53-3b19-4793-a506-9eff7d820757" />
+<img width="942" height="650" alt="image" src="https://github.com/user-attachments/assets/8670921e-94d7-471f-8689-86706e33d3fd" />
+
+
+**Total time spent: 3h 30m**
 
 
 # June 8th: Got the screen to work!
