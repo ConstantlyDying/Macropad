@@ -200,14 +200,18 @@ https://lapse.hackclub.com/timelapse/cCD02lNH7a1F
 **Total time spent: 3h 30m**
 
 
-# June 14th: Got the screen to work!
+# June 14th: Continued working on pcb
 
-[actual journal content - what did you do?]
+I continued working on the pcb. I went thru the schematics once more. I then downloaded some cherry mx key switches 3d models and added them to the foot print properties. I also added the keycaps too. I did added the ec11 encoder cad but culdnt finda suitable knob yet. I then started setting the editor with defferent track widths etc, and netclass, to start routing the pcb, as this is my first time. I somehow routed all the switches and the encoder and the oled disp. Im yet to do the rest. As of now the routing is insanely messy, with like a ton of vias everywhere.
+
+https://lapse.hackclub.com/timelapse/yGzgsLiheN3N
 
 <img width="1018" height="552" alt="image" src="https://github.com/user-attachments/assets/751a26c9-3fcb-4a9b-a3f1-5b08e05f69f6" />
 <img width="820" height="739" alt="image" src="https://github.com/user-attachments/assets/862016f2-c93b-4e7c-beac-7821ae85fc5f" />
+<img width="752" height="555" alt="image" src="https://github.com/user-attachments/assets/b2d8e949-5b9e-40c2-afa5-be922cbc593e" />
+<img width="706" height="427" alt="image" src="https://github.com/user-attachments/assets/266c8a15-123b-4d6b-979a-2ca04e65d809" />
 
-**Total time spent: 2h**
+**Total time spent: 3h 30m**
 
 
 # June 8th: Got the screen to work!
