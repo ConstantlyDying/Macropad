@@ -200,11 +200,12 @@ https://lapse.hackclub.com/timelapse/cCD02lNH7a1F
 **Total time spent: 3h 30m**
 
 
-# June 8th: Got the screen to work!
+# June 14th: Got the screen to work!
 
 [actual journal content - what did you do?]
 
-[insert pictures of what you're working on!]
+<img width="1018" height="552" alt="image" src="https://github.com/user-attachments/assets/751a26c9-3fcb-4a9b-a3f1-5b08e05f69f6" />
+<img width="820" height="739" alt="image" src="https://github.com/user-attachments/assets/862016f2-c93b-4e7c-beac-7821ae85fc5f" />
 
 **Total time spent: 2h**
 
