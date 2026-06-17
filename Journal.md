@@ -214,13 +214,17 @@ https://lapse.hackclub.com/timelapse/yGzgsLiheN3N
 **Total time spent: 3h 30m**
 
 
-# June 8th: Got the screen to work!
+# June 17th: Continued working on pcb
 
-[actual journal content - what did you do?]
+I continued working on the pcb. I deleted all tracks and vias cuz they were too ugly.
+I started routing it again from scratch after a few yt videos. Soon into routing i realised that i had to rearrange switches and the leds accoording to their matrix ro the routing will get messed up. That was confusing and took a while. I then connected the diodes, then the switches according to the matrix, then the leds. I also connected all these to the MC, including the pins and everything for the daughter modules and the rotary encoders. I only have to route the gnd later.
 
-[insert pictures of what you're working on!]
+<img width="922" height="576" alt="image" src="https://github.com/user-attachments/assets/63675d9b-1a8b-413e-acc6-55f36bf6f786" />
+<img width="916" height="650" alt="image" src="https://github.com/user-attachments/assets/689e4cd3-23e7-4b7a-9622-16188e038cf3" />
+<img width="1310" height="922" alt="image" src="https://github.com/user-attachments/assets/8473f36b-c3de-48c3-a45b-f79ea2b62c77" />
 
-**Total time spent: 2h**
+
+**Total time spent: 3h 5m**
 
 
 # June 8th: Got the screen to work!
