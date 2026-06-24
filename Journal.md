@@ -219,6 +219,8 @@ https://lapse.hackclub.com/timelapse/yGzgsLiheN3N
 I continued working on the pcb. I deleted all tracks and vias cuz they were too ugly.
 I started routing it again from scratch after a few yt videos. Soon into routing i realised that i had to rearrange switches and the leds accoording to their matrix ro the routing will get messed up. That was confusing and took a while. I then connected the diodes, then the switches according to the matrix, then the leds. I also connected all these to the MC, including the pins and everything for the daughter modules and the rotary encoders. I only have to route the gnd later.
 
+https://lapse.hackclub.com/timelapse/9O0yEaNH6vYd
+
 <img width="922" height="576" alt="image" src="https://github.com/user-attachments/assets/63675d9b-1a8b-413e-acc6-55f36bf6f786" />
 <img width="916" height="650" alt="image" src="https://github.com/user-attachments/assets/689e4cd3-23e7-4b7a-9622-16188e038cf3" />
 <img width="1310" height="922" alt="image" src="https://github.com/user-attachments/assets/8473f36b-c3de-48c3-a45b-f79ea2b62c77" />
@@ -227,13 +229,19 @@ I started routing it again from scratch after a few yt videos. Soon into routing
 **Total time spent: 3h 5m**
 
 
-# June 8th: Got the screen to work!
+# June 24th: Continued working on the pcb
 
-[actual journal content - what did you do?]
+I continued working on my pub, but on a Mac this time. Im new to ts so I’m still figuring stuff out.
+I wired all the components (routing) except the gnd ones. I then had to figure out how to do the ground plane or whatever and how to connect stuff to it. I made some rectangle and clicked b and it did the job. Then I had to connect the parts of the pcb where the ground plane were not proper, that took a while, and too all the tracks were routed. I then went ahead on adding the cad versions of the cherry mx key switches, keycaps, encoder, and the old display. Yes I had done this before but I had to redo cuz when I imported the stuff to Mac, the cad didn’t as they were not in the Mac locally, so yea I assigned the 3d model to each. I will have to do the silkscreen next, add mounting holes and maybe edit the board shape too a bit.
 
-[insert pictures of what you're working on!]
+ https://lapse.hackclub.com/timelapse/HNFu5uJsJ8_N
 
-**Total time spent: 2h**
+<img width="859" height="661" alt="image" src="https://github.com/user-attachments/assets/bb5e6900-b078-44e9-8a4e-5deae92d147a" />
+<img width="829" height="580" alt="image" src="https://github.com/user-attachments/assets/cb69401b-5d7c-4d87-9d1e-50b09af6d76b" />
+<img width="1122" height="770" alt="image" src="https://github.com/user-attachments/assets/e48181d0-58a7-4394-b365-e27068a41929" />
+
+
+**Total time spent: 2h 30m**
 
 
 # June 8th: Got the screen to work!
