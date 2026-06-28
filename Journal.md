@@ -244,13 +244,19 @@ I wired all the components (routing) except the gnd ones. I then had to figure o
 **Total time spent: 2h 30m**
 
 
-# June 8th: Got the screen to work!
+# June 29th: Continued working on the pcb
 
-[actual journal content - what did you do?]
+Added the mounting holes. Improved the edge cuts, took be a while to figure out how to properly make curved edge cuts on the pcb. I then re added the net fill thingy. I then looked for a few graphics to put as my silkscreen, I decided to go with toothless and hack club logo flag. I also added names for headers of all the daughter modules including the oled display. Kicad started lagging when i added certain images like the fallout logo. I had to find a proper image so it doesnt look like a blot on the silk screen.
 
-[insert pictures of what you're working on!]
+https://lapse.hackclub.com/timelapse/fDKLNE7e71vV
 
-**Total time spent: 2h**
+<img width="805" height="557" alt="image" src="https://github.com/user-attachments/assets/cd32e08e-0f8a-4abc-b9ea-fa99c2011c32" />
+<img width="767" height="597" alt="image" src="https://github.com/user-attachments/assets/4366673c-896b-4df9-9fd9-e3a19b8f9315" />
+<img width="767" height="597" alt="image" src="https://github.com/user-attachments/assets/0a7c2f67-715f-4324-abf8-19f8de7acbab" />
+<img width="841" height="729" alt="image" src="https://github.com/user-attachments/assets/531c169e-0509-4775-99d7-5332d100ceb8" />
+
+
+**Total time spent: 3h 30m**
 
 
 # June 8th: Got the screen to work!
