@@ -252,7 +252,7 @@ https://lapse.hackclub.com/timelapse/fDKLNE7e71vV
 
 <img width="805" height="557" alt="image" src="https://github.com/user-attachments/assets/cd32e08e-0f8a-4abc-b9ea-fa99c2011c32" />
 <img width="767" height="597" alt="image" src="https://github.com/user-attachments/assets/4366673c-896b-4df9-9fd9-e3a19b8f9315" />
-<img width="767" height="597" alt="image" src="https://github.com/user-attachments/assets/0a7c2f67-715f-4324-abf8-19f8de7acbab" />
+<img width="935" height="673" alt="image" src="https://github.com/user-attachments/assets/c270a84f-b4a0-4814-9cb5-171fcb93d9ca" />
 <img width="841" height="729" alt="image" src="https://github.com/user-attachments/assets/531c169e-0509-4775-99d7-5332d100ceb8" />
 
 
