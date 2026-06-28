@@ -251,9 +251,9 @@ Added the mounting holes. Improved the edge cuts, took be a while to figure out 
 https://lapse.hackclub.com/timelapse/fDKLNE7e71vV
 
 <img width="805" height="557" alt="image" src="https://github.com/user-attachments/assets/cd32e08e-0f8a-4abc-b9ea-fa99c2011c32" />
-<img width="837" height="677" alt="image" src="https://github.com/user-attachments/assets/de01fa61-a4dc-49fe-bf66-0f8ad2d379fc" />
-<img width="935" height="673" alt="image" src="https://github.com/user-attachments/assets/c270a84f-b4a0-4814-9cb5-171fcb93d9ca" />
+<img width="837" height="677" alt="image" src="https://github.com/user-attachments/assets/081da0b0-df70-4cac-a8cd-f72c134ae9b0" />
 <img width="841" height="729" alt="image" src="https://github.com/user-attachments/assets/531c169e-0509-4775-99d7-5332d100ceb8" />
+<img width="821" height="653" alt="image" src="https://github.com/user-attachments/assets/5e2b2f82-41c4-42f7-a213-1c7b87b18eb4" />
 
 
 **Total time spent: 3h 30m**
