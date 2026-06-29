@@ -250,6 +250,8 @@ Added the mounting holes. Improved the edge cuts, took be a while to figure out 
 
 https://lapse.hackclub.com/timelapse/fDKLNE7e71vV
 
+<img width="1470" height="901" alt="image" src="https://github.com/user-attachments/assets/04400235-fbb3-4195-9fe4-182cc3a7c2af" />
+<img width="1219" height="937" alt="image" src="https://github.com/user-attachments/assets/01225aed-e05c-4d80-93f6-73d2d43e6308" />
 <img width="805" height="557" alt="image" src="https://github.com/user-attachments/assets/cd32e08e-0f8a-4abc-b9ea-fa99c2011c32" />
 <img width="837" height="677" alt="image" src="https://github.com/user-attachments/assets/081da0b0-df70-4cac-a8cd-f72c134ae9b0" />
 <img width="841" height="729" alt="image" src="https://github.com/user-attachments/assets/531c169e-0509-4775-99d7-5332d100ceb8" />
@@ -259,10 +261,15 @@ https://lapse.hackclub.com/timelapse/fDKLNE7e71vV
 **Total time spent: 3h 30m**
 
 
-# June 8th: Got the screen to work!
+# June 30th:  Continued working on the pcb
 
-[actual journal content - what did you do?]
+I finalised the silkscreen, and cleaned it up on both the front and the back. I then checked for any broken connections, found one wire unrooted for some reason and fixed it.  I then started making the repo. I added files called PCB and Schematics, which contained the respective files with their screenshots. I dont know why but I had to convert all the screenshots I took into pdfs before uploading as GitHub kept showing some error. I also tried adding more graphics to the silkscreen, but for some reason that did not work, and also ended up causing my laptop to lag. I also made the readme with some general screenshots, talked about what it is, why I made it, and a little about the pcb and schematics.
 
-[insert pictures of what you're working on!]
+<img width="867" height="621" alt="Screenshot 2026-06-30 at 12 11 14 AM" src="https://github.com/user-attachments/assets/4471ffd9-d92f-451f-bd9f-2fbb698df25f" />
+<img width="919" height="679" alt="Screenshot 2026-06-30 at 12 10 52 AM" src="https://github.com/user-attachments/assets/ea74a0f1-aef5-4802-9bfd-ec6b3a9341b2" />
+<img width="757" height="541" alt="Screenshot 2026-06-30 at 12 09 26 AM" src="https://github.com/user-attachments/assets/b90225b2-98c5-42bc-a572-5ecd2351f534" />
+<img width="757" height="541" alt="Screenshot 2026-06-30 at 12 09 26 AM" src="https://github.com/user-attachments/assets/2bf255eb-bab1-4ad3-86c8-96893c5b7d68" />
+
 
 **Total time spent: 2h**
+
