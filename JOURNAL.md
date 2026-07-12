@@ -273,3 +273,14 @@ I finalised the silkscreen, and cleaned it up on both the front and the back. I 
 
 **Total time spent: 2h**
 
+
+# July 12th: Fixed the Repo and some other stuff
+
+I Started to work on the CAD part of my macropad, which was basically an enclosure for the macropad in fusion, i have no clue what to do in fusions so will resume that a bit later. I then got notified that my project got rejected due to no BOM, so I fixed my repo and added a BOM
+
+https://lapse.hackclub.com/timelapse/cSW4kQ45cI7v
+
+<img width="1224" height="803" alt="image" src="https://github.com/user-attachments/assets/22b162e0-e25e-4fa4-8fa0-750e54c34108" />
+
+
+**Total time spent: 55m**
