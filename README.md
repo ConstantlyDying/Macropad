@@ -1,7 +1,6 @@
 ## NOTE:
 Will make the CAD and Firmware soon:)
 
-Thank You for your understanding:)
 
 # Macropad
 
